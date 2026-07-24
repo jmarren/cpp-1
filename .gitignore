@@ -1,6 +1,12 @@
 # Prerequisites
 *.d
 
+bin
+
+deps/SDL
+
+
+
 # Compiled Object files
 *.slo
 *.lo
